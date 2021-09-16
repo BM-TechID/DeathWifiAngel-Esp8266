@@ -13,7 +13,7 @@
 [Cek Versi Terbaru](https://github.com/BM-TechID/DeathWifiAngel-Esp8266/releases) sedang dalam pengembangan. Ini stabil untuk digunakan, tetapi sangat berbeda.
 Ini berbasis baris perintah, yang memungkinkannya untuk menawarkan tidak hanya lebih banyak fitur, tetapi juga membuatnya lebih dapat disesuaikan.
 
-| Feature | Version 2 |
+| Feature | Version 1 |
 | ------- | --------- |
 | Ev1l Twin | ✅ |
 | Rogue WiFi | ✅ |
