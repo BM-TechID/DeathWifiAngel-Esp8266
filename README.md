@@ -1,7 +1,7 @@
 # DeathWifiAngel-Esp8266
 
 <p align="center">
-  <img alt="PICTURE logo" src="https://raw.githubusercontent.com/wiki/spacehuhn/esp8266_deauther/img/deauther_logo.png" width="200">
+  <img alt="PICTURE logo" src="https://raw.githubusercontent.com/BM-TechID/DeathWifiAngel-Esp8266/main/img/deathwifiangel.png" width="200">
   <br>
   <b>Scan for WiFi devices, block selected connections, create dozens of networks and confuse WiFi scanners!</b>
   <br>
